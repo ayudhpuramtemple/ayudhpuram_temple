@@ -10,7 +10,7 @@
       <meta name="description" content="" />
       <meta name="author" content="" />
       
-      <title>Ayudhpuram Template</title>
+      <title>Ayudhpuram Temple</title>
       <!-- bootstrap core css -->
       <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
       <!-- font awesome style -->
@@ -26,8 +26,10 @@
           <header class="header_section">
             <div class="container">
                <nav class="navbar navbar-expand-lg custom_nav-container ">
-                  <!-- <a class="navbar-brand" href="index.html"><img width="250" src="images/logo.png" alt="#" /></a> -->
-                  <a class="navbar-brand text-danger .fs-1" href="index.php">Ayudhpuram</a>
+                  <a class="navbar-brand" href="index.php"><img width="200" height="80" src="images/logo3.png" alt="#" /></a>
+
+                  <!-- <a class="navbar-brand text-danger" href="index.php">Ayudhpuram</a> -->
+                 
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class=""> </span>
                   </button>
@@ -55,7 +57,7 @@
                            <a class="nav-link" href="gallery.php">Gallery</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="#">Announcements</a>
+                           <a class="nav-link" href="announce.php">Announcements</a>
                         </li>
                         <!-- <form class="form-inline">
                            <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">

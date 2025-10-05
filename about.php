@@ -24,18 +24,12 @@ include('header.php');
                <div class="col-lg-8 offset-lg-2">
                   <div class="full">
                 
-                     <div class="card" style="width: 50rem;">
-  <div class="card-body">
-    <!-- <h5 class="card-title">Address</h5> -->
-    <p class="card-text">
+                  
    
                         Located in the heart of Ayudhpuram Colony, our Mandir stands as a symbol of faith, devotion, and community harmony. Regular prayers, bhajans, and spiritual gatherings bring devotees together in an atmosphere of peace and positivity. The temple also features a canteen that serves prasadam and pure vegetarian meals to all visitors with love and devotion.
 
 The Mandir Samiti humbly invites devotees to contribute through donations for the temple’s maintenance, development, and ongoing religious activities. Every contribution, big or small, helps us serve the community better and spread the message of unity, service, and devotion.
-                        </p>
-                      
-  </div>
-</div>
+              
                   </div>
                </div>
             </div>
@@ -48,7 +42,7 @@ The Mandir Samiti humbly invites devotees to contribute through donations for th
          <div class="container">
             <div class="box">
                <div class="arrival_bg_box">
-                  <img src="images/man.png" alt="">
+                  <img src="images/man.png" alt="#">
                </div>
                <div class="row">
                   <div class="col-md-6 ml-auto">
@@ -67,6 +61,8 @@ The Mandir Samiti humbly invites devotees to contribute through donations for th
                </div>
             </div>
          </div>
+</div>
+</div>
       </section>
      <?php
 

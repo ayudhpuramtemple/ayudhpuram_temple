@@ -22,16 +22,11 @@ include('header.php');
             <div class="row">
                <div class="col-lg-8 offset-lg-2">
                   <div class="full">
-                
-                   
-<div class="card" style="width: 50rem;">
-  <img src="images/scan.jpg" class="card-img-top" style="height: 600px;" alt="...">
-  <div class="card-body">
-    <p class="card-text">Mandir Samiti bhakton se prapt dan se mandir ke seva, sajja, aur samajik karyon ko 
+  <img src="images/scan.jpg" class="card-img-top" style="height: 600px;" alt="#">
+  <p class="card-text">Mandir Samiti bhakton se prapt dan se mandir ke seva, sajja, aur samajik karyon ko 
         prerit karti hai. Har daan dharmik aur samajik unnati ke 
-        liye upyog hota hai. Bhakton ka yogdan mandir ke vikas aur seva bhavna ko majboot banata hai.</p>
-  </div>
-</div>
+        liye upyog hota hai. Bhakton ka yogdan mandir ke vikas aur seva bhavna ko majboot banata hai.
+      </p>
                   </div>
                </div>
             </div>

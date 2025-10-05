@@ -7,7 +7,7 @@ include('slider.php');
          <div class="container">
             <div class="heading_container heading_center">
                <h2>
-                  Gallery
+                  *******
                </h2>
             </div>
             <div class="row">
@@ -82,7 +82,7 @@ include('slider.php');
                   <div class="col-md-6 ml-auto">
                      <div class="heading_container remove_line_bt">
                         <h2>
-                        Announcements
+                       Donate Us
                         </h2>
                      </div>
                      <p style="margin-top: 20px;margin-bottom: 30px;">
@@ -205,5 +205,5 @@ include('slider.php');
       <!-- end client section -->
      
 <?php
-include('footer.php');
+include('footer1.php');
 ?>

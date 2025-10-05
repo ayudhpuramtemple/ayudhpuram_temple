@@ -15,38 +15,11 @@ include('header.php');
          </div>
       </section>
       <!-- end inner page section -->
-       <!-- why section -->
-       <!-- <section class="why_section layout_padding">
-         <div class="container">
-         
-            <div class="row">
-               <div class="col-lg-8 offset-lg-2">
-                  <div class="full">
-                
-                     <div class="card" style="width: 50rem;">
-  <div class="card-body">
-    <h5 class="card-title">Shri Hitendra Singh/Chief General Manager</h5>
-    <h5 class="card-title">Shri Abhyudaya Bhardwaj/ Secretary</h5>
-    <h5 class="card-title">Shri Nagesh Achari /Jt. Secretary</h5>
-    <p class="card-text"> 
-
-</p>
-  </div>
-</div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section> -->
-      <!-- end why section -->
+      
       <!-- client section -->
  <section class="client_section layout_padding">
          <div class="container">
-            <!-- <div class="heading_container heading_center">
-               <h2>
-                  Our People
-               </h2>
-            </div> -->
+          
             <div id="carouselExample3Controls" class="carousel slide" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active">
@@ -145,6 +118,6 @@ include('header.php');
       </section>
       <!-- end client section -->
 <?php
-include('footer.php');
+include('footer1.php');
 
 ?>

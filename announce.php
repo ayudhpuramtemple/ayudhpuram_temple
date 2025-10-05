@@ -8,7 +8,7 @@ include('header.php');
             <div class="row">
                <div class="col-md-12">
                   <div class="full">
-                     <h3>Contact us</h3>
+                     <h3>Announcements</h3>
                   </div>
                </div>
             </div>
@@ -21,13 +21,9 @@ include('header.php');
          
             <div class="row">
                <div class="col-lg-8 offset-lg-2">
-                  <div class="full">
-                
-    <p class="card-text">
-                       <b> Telephone : </b> 05368-255285 
-                        <br> <b>Extension number :  </b>314
+                  <div class="full">   
+    Wishing you very very happy Deepawali !
                         </p>
-  
                   </div>
                </div>
             </div>

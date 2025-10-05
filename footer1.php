@@ -7,14 +7,13 @@
             <div class="row">
                <div class="col-md-4 footer-col">
                   <div class="footer_contact">
-                     <h4>
-                        Reach at..
-                     </h4>
+                  <a class="navbar-brand" href="index.php"><img width="200" height="100" src="images/logo3.png" alt="#" /></a>
+
                      <div class="contact_link_box">
                         <a href="locate.php">
                         <i class="fa fa-map-marker" aria-hidden="true"></i>
                         <span>
-                        Location
+                        Ordnance Factory Township- Ayudhapuram, Shardan (Amethi), Uttar Pradesh 227412
                         </span>
                         </a>
                         <a href="">
@@ -26,7 +25,7 @@
                         <!-- <a href="">
                         <i class="fa fa-envelope" aria-hidden="true"></i>
                         <span>
-                        demo@gmail.com
+                        Ordnance Factory Township- Ayudhapuram, Shardan (Amethi), Uttar Pradesh 227412
                         </span>
                         </a> -->
                      </div>
@@ -35,7 +34,7 @@
                <div class="col-md-4 footer-col">
                   <div class="footer_detail">
                      <a href="index.html" class="footer-logo">
-                     Ayudhpuram
+                     Ayudhpuram Temple
                      </a>
                      <p>
                      A Place of Peace, Faith & Devotion.

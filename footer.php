@@ -6,7 +6,8 @@
               <div class="full">
                  <div class="logo_footer">
                    <!-- <a href="#"><img width="210" src="images/logo.png" alt="#" /></a> -->
-                  <a class="navbar-brand text-danger .fs-1" href="index.php">Ayudhpuram</a>
+                  <!-- <a class="navbar-brand text-danger .fs-1" href="index.php">Ayudhpuram</a> -->
+                  <a class="navbar-brand" href="index.php"><img width="200" height="80" src="images/logo3.png" alt="#" /></a>
 
                  </div>
                  <div class="information_f">
@@ -42,7 +43,7 @@ Uttar Pradesh 227412</p>
              </div>
              <div class="col-md-6">
                 <div class="widget_menu">
-                   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.923429427273!2d81.835062!3d26.2250626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399a5fc79ed864e3%3A0xd9d93f4a20ab5f4c!2sAyudhpuram%20Estate!5e1!3m2!1sen!2sin!4v1759651860722!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.923429427273!2d81.835062!3d26.2250626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399a5fc79ed864e3%3A0xd9d93f4a20ab5f4c!2sAyudhpuram%20Estate!5e1!3m2!1sen!2sin!4v1759651860722!5m2!1sen!2sin" width="" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
              </div>
                 </div>
