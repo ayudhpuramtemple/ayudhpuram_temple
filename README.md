@@ -1,0 +1,1 @@
+# ayudhpuram_temple
