@@ -130,23 +130,23 @@
  </div> -->
   <!-- end slider section -->
  <!----slider section ----->
-<div class="slider">
-    <div class="slides" id="slideContainer">
-      <img src="images/ayudh1.jpg" alt="Temple 1">
-      <img src="images/ayudh.jpg" alt="Temple 2">
-      <img src="images/temple1.jpg" alt="Temple 3">
-      <img src="images/temple2.jpg" alt="Temple 4">
-    </div>
+<div class="custom-slider">
+  <div class="custom-slides" id="slideContainer">
+    <img src="images/ayudh1.jpg" alt="Temple 1">
+    <img src="images/ayudh.jpg" alt="Temple 2">
+    <img src="images/temple1.jpg" alt="Temple 3">
+    <img src="images/temple2.jpg" alt="Temple 4">
   </div>
+</div>
 <script>
   const slideContainer = document.getElementById("slideContainer");
-    const totalSlides = slideContainer.children.length;   
-    let currentIndex = 0;
+  const totalSlides = slideContainer.children.length;
+  let currentIndex = 0;
 
-    setInterval(() => {
-      currentIndex = (currentIndex + 1) % totalSlides;
-      slideContainer.style.transform = `translateX(-${currentIndex * 600}px)`;
-    }, 4000); // 4 seconds
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % totalSlides;
+    slideContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  }, 4000);
 </script>
     <!---- slider section end --->
  
