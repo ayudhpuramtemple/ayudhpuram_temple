@@ -19,33 +19,31 @@
       <!-- responsive style -->
       <link href="css/responsive.css" rel="stylesheet" />
    <style>
-  .custom-slider {
+ .image-slider {
     width: 100%;
     max-width: 100%;
-    height: 300px;
+    height: 400px;
     overflow: hidden;
     position: relative;
-    margin: 0 auto;
   }
 
-  .custom-slides {
+  .slides {
     display: flex;
-    width: 400%;
+    width: 100%;
     height: 100%;
     transition: transform 1s ease-in-out;
   }
 
-  .custom-slides img {
+  .slides img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     flex-shrink: 0;
   }
 
-  /* Responsive height for mobile */
   @media (max-width: 768px) {
-    .custom-slider {
-      height: 200px;
+    .image-slider {
+      height: 250px;
     }
   }
 </style>
@@ -130,8 +128,8 @@
  </div> -->
   <!-- end slider section -->
  <!----slider section ----->
-<div class="custom-slider">
-  <div class="custom-slides" id="slideContainer">
+<div class="image-slider">
+  <div class="slides" id="slideContainer">
     <img src="images/ayudh1.jpg" alt="Temple 1">
     <img src="images/ayudh.jpg" alt="Temple 2">
     <img src="images/temple1.jpg" alt="Temple 3">
@@ -139,13 +137,17 @@
   </div>
 </div>
 <script>
-  const slideContainer = document.getElementById("slideContainer");
+ const slideContainer = document.getElementById("slideContainer");
   const totalSlides = slideContainer.children.length;
   let currentIndex = 0;
 
+  function updateSlider() {
+    slideContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  }
+
   setInterval(() => {
     currentIndex = (currentIndex + 1) % totalSlides;
-    slideContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+    updateSlider();
   }, 4000);
 </script>
     <!---- slider section end --->
